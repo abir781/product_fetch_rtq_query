@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "title": "Mechanical Keyboard",
+      "price": 89.99
+    },
+    {
+      "id": "4",
+      "title": "Smartwatch",
+      "price": 129.99
+    },
+    {
+      "id": "5",
+      "title": "Laptop Stand",
+      "price": 35.5
+    },
+    {
+      "id": "6",
+      "title": "Portable Charger",
+      "price": 45
+    },
+    {
+      "id": "7",
+      "title": "Gaming Chair",
+      "price": 199.99
+    },
+    {
+      "id": "8",
+      "title": "LED Desk Lamp",
+      "price": 29.99
+    },
+    {
+      "id": "9",
+      "title": "External Hard Drive",
+      "price": 75
+    },
+    {
+      "id": "10",
+      "title": "Fitness Tracker",
+      "price": 49.99
+    },
+    {
+      "id": "11",
+      "title": "Smartphone Case",
+      "price": 15.99
+    },
+    {
+      "id": "12",
+      "title": "Tablet",
+      "price": 299.99
+    },
+    {
+      "id": "13",
+      "title": "Wireless Earbuds",
+      "price": 79.99
+    },
+    {
+      "id": "14",
+      "title": "Coffee Maker",
+      "price": 89.5
+    },
+    {
+      "id": "15",
+      "title": "Action Camera",
+      "price": 149.99
+    },
+    {
+      "id": "16",
+      "title": "Gaming Mousepad",
+      "price": 19.99
+    },
+    {
+      "id": "17",
+      "title": "Smart Light Bulb",
+      "price": 22.99
+    },
+    {
+      "id": "18",
+      "title": "Electric Kettle",
+      "price": 34.99
+    },
+    {
+      "id": "19",
+      "title": "Laptop Backpack",
+      "price": 59.99
+    },
+    {
+      "id": "20",
+      "title": "Portable Speaker",
+      "price": 49.99
+    },
+    {
+      "id": "ff9e",
+      "title": "Total Price",
+      "newprice": 39.989999999999995
+    },
+    {
+      "id": "63da",
+      "title": "Total Price",
+      "newprice": 39.989999999999995
+    },
+    {
+      "id": "a7ec",
+      "title": "Total Price",
+      "newprice": 109.99
+    }
+  ]
+}
