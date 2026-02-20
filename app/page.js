@@ -1,13 +1,20 @@
-import Image from "next/image";
-import { useState } from "react";
+"use client";
+
+import Products from "./Products";
+
+
+
+
 
 export default function Home() {
-  const [pdata,setpdata]= useState([]);
 
   
+
   return (
-   <div>
+    <div>
+       <Products></Products>
+
     
-   </div>
+    </div>
   );
 }
